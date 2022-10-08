@@ -1,7 +1,5 @@
 <h3 align="center">Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/felipegomes3g" target="blank"><img src="https://img.shields.io/twitter/follow/felipegomes3g?logo=twitter&style=for-the-badge" alt="felipegomes3g" /></a> </p>
-
 - 🌱 I’m currently learning **React, Nodejs**
 
 - 💬 Ask me about **React, NodeJS, Javascript, HTML, CSS**
