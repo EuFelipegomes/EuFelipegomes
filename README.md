@@ -1,4 +1,4 @@
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Back-end Developer</h3>
 
 - 🌱 I’m currently learning **React, Nodejs**
 
