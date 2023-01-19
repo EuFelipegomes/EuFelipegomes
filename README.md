@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **React, NodeJS, Javascript, HTML, CSS**
 
-- 📫 How to reach me **felipegomesminimal.123@gmail.com**
+- 📫 How to reach me **felipegomesworker@gmail.com**
 
 - ⚡ Fun fact **I am disciplined and focused**
 
