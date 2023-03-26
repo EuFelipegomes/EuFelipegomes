@@ -11,5 +11,7 @@
 <a href="https://linkedin.com/in/felipe gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe gomes" height="30" width="40" /></a>
 </p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eufelipegomes&show_icons=true&locale=en" alt="eufelipegomes" /></p>
 
