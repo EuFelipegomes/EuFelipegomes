@@ -1,17 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A full-stack developer from Brazil</h3>
 
-- 💬 Ask me about **React, Nodejs**
+# Felipe Gomes 
 
-- 📫 How to reach me **felipegomesworker@gmail.com**
+Full-stack web developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/felipe gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe gomes" height="30" width="40" /></a>
-</p>
 
-<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eufelipegomes&show_icons=true&locale=en" alt="eufelipegomes" /></p>
+[![Gmail](https://img.shields.io/badge/felipegomesworker@gmail.com-C41E3A?style=for-the-badge&logo=gmail&logoColor=black)](mailto:felipegomesworker@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/Felipe_Gomes-C41E3A?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipegomessoftwareengineer)
+
+
+## 
+Developer focused on teamwork, I believe that hard work overcomes talent, and that with discipline nothing is impossible
+
+
+
 
