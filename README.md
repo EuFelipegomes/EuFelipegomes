@@ -3,7 +3,7 @@
 
 # Felipe Gomes 
 
-Full-stack web developer
+Software Engineer 
 
 
 [![Gmail](https://img.shields.io/badge/felipegomesworker@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:felipegomesworker@gmail.com)
