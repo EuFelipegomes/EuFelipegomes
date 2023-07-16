@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=&fffheight=300&section=header&text=Felipe Gomes&fontSize=90" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=&fffheight=300&section=header&text=Felipe Gomes&fontSize=90" />
 
 Software Engineer 
 
