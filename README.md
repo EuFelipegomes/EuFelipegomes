@@ -10,12 +10,6 @@
 
  ![Felipe Gomes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EuFelipegomes&theme=xcode&hide_border=true&area=true)
  
-<div align="center">
- 
-[![Gmail](https://img.shields.io/badge/felipegomesworker@gmail.com-7e33b7?style=for-the-badge&logo=gmail&logoColor=black)](mailto:felipegomesworker@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/Felipe_Gomes-7e33b7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipegomessoftwareengineer)
-</div>
 
 
 
