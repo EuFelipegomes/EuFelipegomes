@@ -9,11 +9,16 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuFelipegomes&layout=compact&hide_border=true&title_color=BFCCFFFF&text_color=fff&bg_color=0d1117"/>
 </div>
 
+ ![Felipe Gome's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EuFelipegomes&theme=xcode&hide_border=true&area=true)
+ 
+<div align="center">
 
 
-![Felipe Gome's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EuFelipegomes&theme=xcode&hide_border=true&area=true)
+[![Gmail](https://img.shields.io/badge/felipegomesworker@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:felipegomesworker@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/Felipe_Gomes-fff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipegomessoftwareengineer)
 
+</div>
 
 
 
