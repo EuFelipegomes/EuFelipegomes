@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=180&section=header&text=Felipe%20Gomes&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color0d1117&height=180&section=header&text=Felipe%20Gomes&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Future&size=25&pause=1000&color=BFCCFF&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+A+SOFTWARE+ENGINEER!;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
 
