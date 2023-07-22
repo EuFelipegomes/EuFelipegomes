@@ -11,13 +11,9 @@
  ### I'm a back-end software engineer and technology enthusiast.
 
  ### I love difficult challenges and always work hard to achieve my goals.
- 
 
-
-<div align="center">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuFelipegomes&show_icons=true&count_private=true&hide_border=true&title_color=BFCCFFFF&icon_color=BFCCFFFF&text_color=c9d1d9&bg_color=0d1117"/>
-
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuFelipegomes&layout=compact&hide_border=true&title_color=BFCCFFFF&text_color=fff&bg_color=0d1117"/>
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipegomesworker@gmail.com)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/eufelipegomes_____)
 </div>
 
 
